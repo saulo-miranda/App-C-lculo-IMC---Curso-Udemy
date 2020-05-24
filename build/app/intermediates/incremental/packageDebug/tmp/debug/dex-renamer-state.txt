@@ -1,0 +1,4 @@
+#Sun May 24 15:50:49 BRT 2020
+base.0=/home/slo/Desktop/calculo_imc/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
