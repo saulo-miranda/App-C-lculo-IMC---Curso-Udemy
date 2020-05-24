@@ -1,2 +1,2 @@
-# App-C-lculo-IMC---Curso-Udemy
+# App-Calculo-IMC---Curso-Udemy
 Segundo App ensinado no curso de Flutter
